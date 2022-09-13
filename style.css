@@ -1,0 +1,94 @@
+    p {
+    text-align:left;
+    text-indent: 20px;
+    font-style: italic; 
+    font-size: 20px; 
+    color: black;
+}
+.list{
+    font-size: 30px;
+    color: blue;
+}
+.list p{
+    font-size: 20px;
+    color:black;
+}
+    h1 {
+    text-align:center;
+}
+
+    h2 {
+        text-align:center;
+        font-size: 30px;
+} 
+
+    h3 {
+    text-align:center;
+    font-size:30px;
+}
+
+    h4 {
+    text-align:center;
+   font-size: 20px;
+}
+
+    .img-container {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:fit-content;
+        border-style: solid;
+        border-width: 5px;
+        border-left-width: 5px;
+        border-right-width: 5px;
+        border-color: blue;
+        box-shadow: 0 20px 40px 0 rgb(30, 50, 233); 
+}
+    
+    hr {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        height: 3px;
+        background-color: blue;
+        color:blue;
+        box-shadow: 0 10px 20px 0 rgb(30, 50, 233); 
+}
+
+    .border {
+        width:fit-content;
+        border-style: solid;
+    border-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: blue;
+        box-shadow: 0 20px 40px 0 rgb(30, 50, 233);
+}
+a {
+    font-size: 30px
+}
+    
+    a:hover {
+	background-color:rgb(30, 50, 233);
+	color:#fff;
+}
+
+    a img {
+    left:10%;
+   height:100px;
+   width:100px;
+}
+
+    a img:hover {
+    transform: scale(1.3);
+}
+
+    .margin{
+    margin-left:10%;
+    margin-right:15%;
+}
+    
+    td {
+    padding: 5px 40px 90px 1px;
+}
+
