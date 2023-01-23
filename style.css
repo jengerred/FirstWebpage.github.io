@@ -84,7 +84,8 @@ p {
 }
 
 .img-container {
-        display: block;
+    line-height: 0%;
+   display: block;
         margin-left: auto;
         margin-right: auto;
         width:fit-content;
@@ -154,7 +155,7 @@ a {
 }
 
 .box {
-        border: solid black 2px;
+        border: solid blue 2px;
     position:relative;
     margin-left:10%;
     margin-right:10%;
