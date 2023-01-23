@@ -176,6 +176,16 @@ a {
     padding-bottom:25vh;
 }
     
+@media only screen and (max-width: 450px) {
+    .section {
+        padding-top:0px;
+    }
+    
+    .explore {
+        padding-top:0px;
+    }
+    
+}
 
 
 
