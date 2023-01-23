@@ -2,7 +2,7 @@
 ## Description:
 This project was one of our first assignments for the MIT XPRO course. We were istructed to create our first web page. This page was created using HTML and CSS.
 ## How to Run:  
-Simply open the page and click the links! Have fun exploring Grand Rapids!
+Simply open the page and click the links. Have fun exploring Grand Rapids!
 ## Roadmap of future improvements:: 
 I plan on making a lot more webpages and websites!
 
